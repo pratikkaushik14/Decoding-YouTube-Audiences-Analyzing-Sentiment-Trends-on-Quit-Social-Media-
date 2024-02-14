@@ -46,3 +46,5 @@ Sentiment vs. Engagement Metrics:
 Comments with higher likes and reply counts tend to have more positive sentiment, indicating a correlation between engagement and sentiment.
 Conclusion
 The sentiment analysis of the TEDx talk comments reveals that the majority of viewers express positive sentiment. Comments with higher engagement metrics, such as likes and reply counts, tend to be more positive. However, there is still a portion of negative and neutral sentiment comments, suggesting a diverse range of opinions among viewers.
+
+Link of Medium Article: https://prateekkaushik22.medium.com/decoding-youtube-audiences-analyzing-sentiment-trends-on-quit-social-media-dr-d31d08765d86
